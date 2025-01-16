@@ -1,7 +1,7 @@
 import requests
 
 # Replace with your VirusTotal API key
-API_KEY = "3300d67131454dbf44512d56cf0fea7b5bf9a94722019205e0b4ed45a8778c41"
+API_KEY = "XX"
 BASE_URL = "https://www.virustotal.com/api/v3"
 
 def fetch_passive_dns(ip_address):
